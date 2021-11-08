@@ -40,6 +40,17 @@
 
 ul {
   list-style: none;
+
+}
+
+li {
+  padding: 5px;
+  
+}
+
+ul a {
+  padding: 50px;
+  text-align: right;
 }
 
 input {
@@ -49,3 +60,4 @@ input {
 .container {
   padding: 20px;
 }
+
